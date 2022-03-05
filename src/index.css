@@ -12,11 +12,7 @@ html {
 }
 
 body {
-  background: linear-gradient(
-    to right,
-    hsl(330, 100%, 71%),
-    hsl(51, 100%, 50%)
-  );
+  background: linear-gradient(to right, hsl(96, 100%, 71%), hsl(0, 100%, 50%));
   overflow: hidden;
 }
 
